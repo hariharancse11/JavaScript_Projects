@@ -1,0 +1,16 @@
+body{
+    background-color:palegoldenrod;
+}
+
+
+div{
+    font-family: cursive;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 350px;
+}
+
+input{
+    font-family: cursive;
+    font-size: medium;
+}
